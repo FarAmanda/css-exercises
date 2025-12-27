@@ -10,12 +10,11 @@
     font-size: 36px;
 }
 
-.third{
+.adjustFont{
     font-size: 24px;
 }
 
 #fourth{
     background-color: #ACE1AF;
-    font-size: 24px;
     font-weight: bold;
 }
