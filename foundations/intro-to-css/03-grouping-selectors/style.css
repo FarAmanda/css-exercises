@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.Priority,
+.Secondary {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.Priority{
+    background-color: black;
+    color: white;
+}
+
+.Secondary{
+    background-color: Yellow;
+}
